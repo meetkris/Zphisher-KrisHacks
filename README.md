@@ -15,6 +15,9 @@ No additional setup required for hosting phishing pages.
 Project Structure
 
 /configs: Configuration files for Zphisher setup.
+
 /templates: Phishing templates used in the project.
+
 /scripts: Custom scripts to automate tasks.
+
 README.md: Documentation for the project.
