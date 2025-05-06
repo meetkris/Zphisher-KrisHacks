@@ -22,7 +22,9 @@ This repository contains my work on the **Zphisher** project, a tool for ethical
 ---
 
 ## Setup Instructions
+
 1.Install required dependencies:
+
 sudo apt update && sudo apt install -y git curl php openssh-client
 
 2.  Clone this repository to your local machine:
